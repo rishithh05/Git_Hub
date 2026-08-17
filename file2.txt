@@ -1,6 +1,7 @@
 About Git
 Git is fast
 Git was built to work on the Linux kernel, meaning that it was built to handle repositories with tens of millions of lines of code from the start. Speed and performance has always been a primary design goal of Git.
+<<<<<<< HEAD
 
 Git also stores repository history efficiently. As of 2025, the current version of the Linux kernel's source code is 1.7 GB. Git stores the full history of the Linux project (1.4 million commits) in only 5.5 GB.
 
@@ -11,3 +12,5 @@ Git has a huge ecosystem of tools
 The core Git project is just a command-line tool, but Git exploded in popularity in the early 2010s thanks to Git hosting services like GitLab, GitHub, and more.
 
 Since Git was created, many GUIs, editor integrations, and command line tools have been built to make working with Git more convenient. Your favorite developer tools might already have a built-in Git integration.
+=======
+>>>>>>> feature/branch_C
