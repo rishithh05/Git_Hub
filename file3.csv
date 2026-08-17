@@ -10,3 +10,5 @@ Git is fastAbout Git
 Git is fastAbout Git
 Git is fast&furious 
 Git is a stupid tracker
+git add .
+git commit -m "Update Git description on main"
